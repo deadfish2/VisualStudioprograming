@@ -42,6 +42,7 @@ int main() {
 	Student s;
 	Teather t;
 	Person* p2 = new Student;
+	/*test*/
 	p2->Name();
 	p.Name();
 	s.Name();
